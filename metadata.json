@@ -1,0 +1,6 @@
+{
+  "name": "Musical",
+  "description": "অফলাইন ফোন স্টোরেজ থেকে গান প্লে করার জন্য একটি চমৎকার এবং আধুনিক মিউজিক প্লেয়ার",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
